@@ -1,3 +1,7 @@
+---
+title: env
+---
+
 .env = git ignore express js wala
 
 Index.js ---route ---controller
@@ -26,11 +30,11 @@ Nodejs deploy
 
 Ec2 ekata pm2 danna
 
-<img src="media/media/image1.tmp" style="width:6.5in;height:3.59722in" />
+![image1](/media/image1.png)
 
 Node js
 
-<img src="media/media/image2.tmp" style="width:6.5in;height:2.42639in" />
+![image2](/media/image2.png)
 
 Relationship
 

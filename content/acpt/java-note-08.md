@@ -1,15 +1,19 @@
+---
+title: java-note-08
+---
+
 Constructor
 
-<img src="media/media/image1.tmp" style="width:5.88624in;height:4.11516in" />
+![image1](/media/image1.png)
 
-<img src="media/media/image2.tmp" style="width:6.5in;height:4.0125in" />
+![image2](/media/image2.png)
 
-<img src="media/media/image3.tmp" style="width:6.5in;height:3.55208in" />
+![image3](/media/image3.jpeg)
 
 Encapsilation
 
-<img src="media/media/image4.tmp" style="width:4.96944in;height:4.56314in" />
+![image4](/media/image4.jpeg)
 
-<img src="media/media/image5.tmp" style="width:6.01126in;height:4.51105in" />
+![image5](/media/image5.tmp)
 
-<img src="media/media/image6.tmp" style="width:4.22976in;height:4.4277in" />
+![image6](/media/image6.tmp)

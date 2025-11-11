@@ -1,23 +1,18 @@
-> **Tables**
+---
+title: Tables
+---
 
+# Tables
 - appoinment
-
 - appoinment_doctor_details
-
 - appoinment_medicine_details
-
 - doctors
-
 - medicine
 
 when appointment is placed effect following tables,
-
 - appoinment
-
 - appoinment_doctor_details
-
 - appoinment_medicine_details
-
 - medicine(quantity eka adu wenna oni)
 
 1.  **one** doctor can have **many** appointment_doctor_details.
@@ -28,7 +23,7 @@ when appointment is placed effect following tables,
 
 4.  **one** appointment have **one** appointment doctor details.
 
-<img src="media/media/image1.jpeg" style="width:5.68605in;height:4.42262in" />
+![image1](/media/image1.jpeg)
 
 ------------------------------------------------------------------------
 
@@ -58,10 +53,8 @@ Fetch html Methods,
 
 3.  PUT
 
-4.  DELETE
 
 5.  PATCH
-
 - Multiple frontend single backend.
 
 > Frontend= web,mobile,sm-t
@@ -84,9 +77,9 @@ Apache tom cat 10 idn thamai jakartha walata liyala thiyenne.
 
 Eke pallehata ewa liyala thiyenne Javax. Package ekata.soo 10
 
-<img src="media/media/image2.jpeg" style="width:4.95833in;height:5.73958in" />
+![image2](/media/image2.jpeg)
 
-<img src="media/media/image3.jpeg" style="width:5.6153in;height:3.22014in" />
+![image3](/media/image3.jpeg)
 
 Fxml wenuwama thiyenne JSP ekk.
 
@@ -94,7 +87,9 @@ Issr thibbe oracle haduwa kale post ekai get
 
 Dn eclipse la develop krl thiynw 5 ma.
 
+```java
 JavaBean class ekk wenna oni,
+```
 
 1.  Attribute private wenna oni
 
@@ -116,7 +111,8 @@ JavaBean class ekk wenna oni,
 >
 > Table eke coloumn ekkt eka dto object ekk hadenw
 
-// Create appointment detail object  
+```
 AppoinmenDto appoinmentDetailDto = new AppoinmenDto(doc_id,subtotal,doc_fee,orderList);
+```
 
 > Meka hadanne controller eke idn service ekt table godaka details genibyanna

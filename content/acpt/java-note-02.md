@@ -1,3 +1,7 @@
+---
+title: java-note-02
+---
+
 app ekk wenna nm user react krnn oni
 
 jdk ta thiynw jre and dev tools
@@ -6,7 +10,9 @@ jre eka athule jvm
 
 jdk ekendev tools athule have two part =compiler and pre-made software components
 
+```
 api eh pre made componenets plug karaganna import kiyana word eka use krnn puluwn
+```
 
 java athule scanner file eka athule thiyanawa utiol eke thiynw byte code file eka
 
@@ -21,22 +27,24 @@ Premitive data types 8 thinw
 7.char
 8.boolean
 
+```java
 Non-premitive gdk thiynw (class ekk thiyanna oni)
+```
 
 pre made software ekk —- java.lang file eka athule string have
 eg scanner,String
 
 java.lang eka compiler eke auto matically plug krnw api eka wenama karann oni na
+```
 import java.lang.\*; dammama java foldwe eke lang folder eke file okkm plug wenw
+```
 
-//casting(manually wnew) and conversion(automatically wenw)
 loku variable ekkt podi variable ekk dana eka ta kiynw =conversion kiyala
 
 podi variable ekkt loku varibale ekk dana kota conflict ekk enw ..
 eh conflict ekh casting karanna puluwn = int val1= 89;
 byte val2=(byte)val1;
 
-//conversion and casting
 
 conversion———–\>
 byte—\> short–\> char–\> int—\>long–\> float—\> double

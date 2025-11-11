@@ -1,3 +1,7 @@
+---
+title: java-note-13
+---
+
 **In java fx when we want link another fxml file,**
 
 Aluth fmxl obeject ekk hadanawa refer demo.fx
@@ -20,7 +24,7 @@ Fx software ekai db server ekai connect krnn nm unique ip adrees eka oni device 
 
 Sw ekai db server ekai dekama ekama device eke thiynwnm ekata kiynw local host awasthawak kiyala.
 
-<img src="media/media/image1.jpeg" style="width:6.5in;height:3.87847in" />
+![image1](/media/image1.jpeg)
 
 Computer type 2 ,
 
@@ -31,11 +35,9 @@ Computer type 2 ,
 Db server types 2,
 
 1.  Document oriented db
-
 - Dena lada js object store krgnn puluwn meke eg.mongo db
 
 2.  Relational db
-
 - Eg:Mysql ,postage sql,oracle sql
 
 > Port =3306
@@ -54,7 +56,6 @@ Path eka denna c drive eke user folder eke users app data scene builder then sel
 
 Yanna inna ekata id = root kiyala danawa
 
-//cat
 
 DB SERVRES
 
@@ -70,7 +71,7 @@ Relational eke hieracy eka, eg. Mysql,oracle,sql,maria db
 
 **Db server ---databases ---tables ---data**
 
-<img src="media/media/image2.jpeg" style="width:5.84416in;height:6.99363in" />
+![image2](/media/image2.jpeg)
 
 Create
 

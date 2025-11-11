@@ -1,9 +1,19 @@
+---
+title: springboot
+---
+
 java beans
 
+```java
 //hadana onima class ekk
+```
+```
 (pojo class -plane all java object)
+```
 
+```java
 //spring boot wala hadana class wlt kiynw -spring beans
+```
 
 semantic version convention = 2.5.7
 
@@ -23,7 +33,9 @@ dala enacpsulate and default cons and data danna oni then
 
 service eke eke mulinm customer service kiyala interface ekk hdl eke methods tika dnw \]
 paramaeters uth ekk.
+```java
 the impl package eka kdl eke class eka hdl class eket implemet krll method tika overide
+```
 krnw.
 
 customerconroller object ekk hdwm mulima call wenne constructor
@@ -31,7 +43,6 @@ customerconroller object ekk hdwm mulima call wenne constructor
 spring boot wala new key word dala object hadanne na @autowired annotation dala sub eka
 parse krnw
 
-http://localhost:8080/api/v1/customer
 
 body raw json
 
@@ -42,7 +53,6 @@ body raw json
 .net framework =platform independent windows wala withri thiyenne
 .net core = platform dependent ,
 
-cloud ai ,copiolet
 
 3 types of reposoitory
 

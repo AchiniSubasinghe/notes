@@ -1,3 +1,7 @@
+---
+title: java-note-14
+---
+
 stand alone system = thani db
 meka fail wenw wela enterprise level application
 
@@ -15,8 +19,11 @@ propertiews advance setting environment
 
 mysqldump -root
 
+```
 package lk.acpt.demo_jdbc.controller;
+```
 
+```
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.TextField;
@@ -26,8 +33,11 @@ import lk.acpt.demo_jdbc.service.DoctorService;
 import lk.acpt.demo_jdbc.service.MedicineService;
 import lk.acpt.demo_jdbc.service.impl.DoctorServiceImpl;
 import lk.acpt.demo_jdbc.service.impl.MedicineServiceImpl;
+```
 
+```java
 public class OrderViewController {
+```
 
     @FXML private TextField txtDocID;
     @FXML private TextField txtDocName;
@@ -39,8 +49,10 @@ public class OrderViewController {
     @FXML private TextField txtonHand;
     @FXML private TextField txtUPrice;
 
+```java
     private final DoctorService doctorService = new DoctorServiceImpl();
     private final MedicineService medicineService = new MedicineServiceImpl();
+```
 
     @FXML
     private void getDocID() {

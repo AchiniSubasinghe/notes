@@ -1,3 +1,7 @@
+---
+title: stand-alone-system
+---
+
 stand alone system = thani db
 
 meka fail wenw wela enterprise level application
@@ -16,7 +20,9 @@ Static Reference variable ekk dala method ekk hadagannawa.
 
 Then 1 object ekk withrk hadanawa,
 
+```java
 Static method ekk hadagannawa get db connection kiyala.static krnne class eke naming ma call krnnh
+```
 
 Ita passe reference variable eka null num new object ekk hadagannw.
 
@@ -26,7 +32,7 @@ Meka call krddi palweni para withraia object eka hadenne.
 
 Ilaga eke idn asame ip eka repeat wenw.
 
-<img src="media/media/image1.tmp" style="width:5.26115in;height:3.29213in" />
+![image1](/media/image1.png)
 
 Java fx jdk eke nna ekh krnne java FX organization ekk
 

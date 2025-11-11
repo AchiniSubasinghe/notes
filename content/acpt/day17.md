@@ -1,3 +1,7 @@
+---
+title: day17
+---
+
 Front end to Back end eka data yanwanna official standard method eka JSON.
 
 Front end eke Backend ekr request ekk ynw.
@@ -24,10 +28,7 @@ War-web application resource
 
 **Dependancy Injection**
 
-- Titely couple- Yam class ekk thwa class ekk object matha depend wela innw nm ekt kiynw-
-
 <!-- -->
-
 - Loose couple-inversion of controlling
 
 Eg.A B C kiyala classes 3 thibth a eke main ekh thibbth
@@ -45,15 +46,10 @@ Okkmt ekt thoynw nm monolithic architecture kiyl
 Wena wenam architecture wlt krddi micro service architecture
 
 Packages,
-
 - Controller
-
 - Dto
-
 - Entity
-
 - Repo
-
 - Service
 
 Cloud ai dala portfolio

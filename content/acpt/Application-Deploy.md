@@ -1,3 +1,7 @@
+---
+title: Application-Deploy
+---
+
 **Application Deploy -final output eka dena eka user ta**
 
 Desktop Application -jar file eka
@@ -5,7 +9,6 @@ Desktop Application -jar file eka
 BackEnd APP,
 
 1.  Mobile ---
-
 - android deploy krna widiha –
 
 > reactnative site—development –guide—android and ios ---android---publishing to google play store---Android app -AAB(Android app bundle) file and ios profile ---.aab file format android nm
@@ -13,7 +16,6 @@ BackEnd APP,
 > -Google account ekt danawa google play console account ekk ganna oni.
 >
 > -Play store danne nathuwa APK widihata deploy krnn puluwn.
-
 - ios --ios profile
 
 2.  web---
@@ -26,7 +28,7 @@ Device eka network ekata connect una gaman ip address ekk hambenw.
 
 Cmd eke ipconfig gahuwama connections blnn puluwn.
 
-<img src="media/media/image1.tmp" style="width:6.5in;height:1.69097in" />
+![image1](/media/image1.png)
 
 Pc eka publicaly access na
 
@@ -67,7 +69,6 @@ Meh computer eka 200000 pepople den puluwn
 Mekata kiyanawa,
 
 **2.)shared hosting servers**
-
 - Unique technology danna bg os windows nm windows
 
 Money thiyana kene bear metal ekk hdl eka maset 3000 aran partision krl denw kattiyata
@@ -81,7 +82,6 @@ Server eke ram ekk ynw -hamogema website nawathinw
 Trafiics athi wenw
 
 **3.)vps-virtual private servers**
-
 - Resources madi wenna puluwn -eg ram eka thiye 2gb user 4gb oni wenn puluwn
 
 > Server eken krnne api call krnn files ganna eka soo ekata gui ekk oni na eg.linux
@@ -140,17 +140,17 @@ http server ekk dann oni – eg .apache(paranama eka ),nginx
 
 digital ocean eke ,
 
-<img src="media/media/image2.tmp" style="width:4.40686in;height:1.2085in" />
+![image2](/media/image2.png)
 
 Dila
 
-<img src="media/media/image3.tmp" style="width:6.5in;height:3.53542in" />
+![image3](/media/image3.jpeg)
 
-<img src="media/media/image4.tmp" style="width:3.00042in;height:1.82317in" />
+![image4](/media/image4.jpeg)
 
 Meke https eke s eka ain krnn oni. Ethkota website eka load wenw
 
-<img src="media/media/image5.tmp" style="width:6.5in;height:1.89792in" />
+![image5](/media/image5.tmp)
 
 Three.js
 

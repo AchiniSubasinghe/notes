@@ -1,3 +1,7 @@
+---
+title: java-note01
+---
+
 application -
 desktop
 web
@@ -45,11 +49,15 @@ but in new versions like 17 there is only java development kit(JDK) only.
 in java
 source code-\> javac Test.java(don’t show the input)-\> java Test (show the output)-\>
 
+```java
 Test.class file (additional file that create when in the javac function- between source code and machine code )—\> it’s call,,,
+```
 
 1-intermediate object file - not a source code or machine code
 2-byte code
+```java
 3-dot class file
+```
 
 \*\*java is platform independent
 

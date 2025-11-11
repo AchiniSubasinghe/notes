@@ -1,3 +1,7 @@
+---
+title: Final-day
+---
+
 React front end ekk hadanna onia pi kalin hadapu express ekata
 
 Eke api eka call karanakota error ekk enw api fetch blocked using cors kiyala.
@@ -10,7 +14,7 @@ Sop -same origin policy
 
 Cros npm
 
-<img src="media/media/image1.tmp" style="width:6.5in;height:1.38264in" /><img src="media/media/image2.tmp" style="width:6.5in;height:4.21528in" />
+![image1](/media/image1.png)![image2](/media/image2.png)
 
 Front End eka – d drive eke react folder eke loginapp kiyana eka
 
@@ -31,16 +35,12 @@ Spring security athule and spring boot wala token seen eka auto enna
 Token eke parts thunai-header ,payload,secret key
 
 1.  Token generate part
-
 - Mulinma depencies daganna oni pom eke
 
-<img src="media/media/image3.tmp" style="width:6.5in;height:4.07778in" />
-
+![image3](/media/image3.jpeg)
 - Jjwt git code eka aran application properties wala spring key eka dala
 
-<img src="media/media/image4.tmp" style="width:4.82359in;height:1.28143in" />
-
-- Next chat gpt code eka aran Passe eka seceret key ekk convert krnw ara packages wala thibba class ekkin.
+![image4](/media/image4.jpeg)
 
 Meke refer krnn oni util eke JwtUtil eka refer krnn.
 

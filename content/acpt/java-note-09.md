@@ -1,21 +1,34 @@
+---
+title: java-note-09
+---
+
+```java
 constructor no return type,same class name ,object creation eke invoke wenawa
+```
 public Student(){} api damme naththnm compiler automatically inject karanawa .eh nisa mekata kiyanawa default constructor kiyala.
 
 ekama name thiyana contrctors hadanna puluwn parameter count eka hari parameter type eka change karala oni tharam
 constructor hadana ekata kiyanawa constructor overloading kiyala
 eg:
+```java
 class student(){}
+```
+```
 public student(){}//default constructor
 public student (String n){}//constructor overloading
+```
 
+```
 var arg =unlimitted parameters daddi use kranna puluwn int…save mekata same data type eka thiyanna oni(ekama data type eke unlimitted parameters danna use karanne)
+```
 
 this = current object eke thiyana variable eka thamai access wenne
-this.name//attribute =name//parameter
 using this keyword to stop confustion current object name=parameter name
 
+```
 {}//instance block
 instance variable aithi class eke
+```
 instance variable walata default values danawa
 meka aththatama run wenne na
 Meka call wenawa eh adala constructor ekata kalin
@@ -25,8 +38,10 @@ meka constrcutor ekata kalin run wenw.eh run wenne instance block eke copy ekk c
 {}
 
 static block static{}
+```java
 meka eka parai run wenne mkd class eka ram ekt load wenne eka parai load wena kota static variables walata automatically default values watenw.
 static variable aithi class ekata
+```
 
 constructos 1 wadiyen danawanm compiler auto constructor eka inject karanne na.
 
@@ -35,11 +50,15 @@ oop wala concepts,
 =setter method ekk athule apita oni validation eka danawa
 =karana widiha = attributes privated karala ewa access karanna getters setters use karana eka
 
+```java
 2.inheritance =yam class ekk thiyana attribute and behaviours thawa class ekkt directly access karannna puluwn weno. yasiru class =sub class(acess karana clas eka)
 keyword=extends chamodi class =super class(acess wena class)
+```
 
+```java
 sub class eke constructor eka call wenna kalin super class eka call wenawa.
 mekedi automatically compiller eka inject karanawa super(); = supper class
+```
 
 api super keyword eka danna oni aniwaren super eke default constructor ekk naththnm.
 parameter constrctor ekk nm super keyword eka athule api argument eka denna oni.

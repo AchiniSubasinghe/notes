@@ -1,6 +1,12 @@
+---
+title: Generic
+---
+
 **Wrapper class**
 
+```java
 Primitive data type 8 ta Wrapper class 8 have,
+```
 
 1.  byte =Byte
 
@@ -20,23 +26,27 @@ Primitive data type 8 ta Wrapper class 8 have,
 
 Eg:
 
-<img src="media/media/image1.tmp" style="width:3.77136in;height:1.25017in" />
+![image1](/media/image1.png)
 
-<img src="media/media/image2.tmp" style="width:2.00028in;height:0.58341in" />
+![image2](/media/image2.png)
 
 **Boxing**
 
+```java
 wrapper class reference variable ekkt primitive data type value ekk dana ekt kiyanawa -boxing kiyala
+```
 
 **Unboxing**
 
+```java
 Primitive data type reference variable ekkt class wrapper class value ekk dana ekt kiyanawa -unboxing kiyala
+```
 
-<img src="media/media/image3.tmp" style="width:3.24003in;height:1.06265in" />
+![image3](/media/image3.jpeg)
 
 **String conversion to integer and double**
 
-<img src="media/media/image4.tmp" style="width:3.43798in;height:0.8647in" />
+![image4](/media/image4.jpeg)
 
 **Collection Frameworks and Generics**
 
@@ -46,41 +56,34 @@ Java wala Array ekk haduwama eke limits deck thiynw,
 
 2.  Fix length
 
-> <img src="media/media/image5.tmp" style="width:2.28157in;height:0.87512in" />
+> ![image5](/media/image5.tmp)
 >
+```java
 > Mekata solution ekk widihata Array list kiyana class eka java.util eke thiyanawa.
+```
 >
 > Mekata onima type eke data ekk danna puluwn.
 >
-> <img src="media/media/image6.tmp" style="width:3.15669in;height:2.03153in" />
+> ![image6](/media/image6.tmp)
 >
-> **Generic**
 
+# Generic
 - Generic kiyanne compile time type safety mechanism ekk
-
-- Meka diamond brackets athule \<\> wrapper class type eka thamai danne.
-
 - Default generic data type eka =object
-
 - Generic krnne nathuwa default nm thiyenne oni data type ekk danna puluwn.
 
-> <img src="media/media/image7.tmp" style="width:3.6776in;height:2.0107in" />
+> ![image7](/media/image7.tmp)
 >
 > **HashSet**
-
 - Hash set ektath generic krnn puluwn.
-
 - Meke duplicate value ain krnw
-
 - Eyata galapena piliwelak hadagannawa
-
 - Meke result ekk widihata get method na
-
 - Reason duplicate values ain krl eyage order ekkt eya indexex hadagann nisa.
 
-> <img src="media/media/image8.tmp" style="width:3.17753in;height:1.85443in" />
+> ![image8](/media/image8.jpeg)
 >
-> <img src="media/media/image9.tmp" style="width:3.03167in;height:0.51049in" />
+> ![image9](/media/image9.tmp)
 >
 > **Priority Queue**
 >
@@ -88,9 +91,9 @@ Java wala Array ekk haduwama eke limits deck thiynw,
 >
 > Meka hariyata wada karanne na
 >
-> <img src="media/media/image10.tmp" style="width:4.05265in;height:1.58355in" />
+> ![image10](/media/image10.tmp)
 >
-> <img src="media/media/image11.tmp" style="width:1.84401in;height:0.29171in" />
+> ![image11](/media/image11.tmp)
 >
 > **Hash Map**
 >
@@ -100,7 +103,7 @@ Java wala Array ekk haduwama eke limits deck thiynw,
 >
 > Add wenuwata Put method eka thiyenne
 >
-> <img src="media/media/image12.tmp" style="width:3.55258in;height:1.44812in" />
+> ![image12](/media/image12.tmp)
 
 Collection frame work Class 5,
 
@@ -124,7 +127,9 @@ Collection frame work Class 5,
 
 3.  Gradle
 
+```java
 > Build tools = user ta eka file ekkt hadala dena ekata meka udau wenw(executable file ekk user ta hadala dena eka) class okkm technically build krl final architecture ekk hanna ganna eka
+```
 >
 > Meka karran thiyana tools,
 
@@ -142,13 +147,10 @@ Collection frame work Class 5,
 >
 > Mvn repository—mysql connector/j eka download krl---hamburger option ekt gihin—project structure—libraries walata gihin------dowload file eka apply krnn oni.
 >
-> Import com.mysql.cj.jdbc .Driver ----base package.class
-
 - Pawichchi krn build tool ant eka nm download krl manually krnn oni
-
 - Pawichchi krn build tool eka Mevan or Gradle nm athulema 3<sup>rd</sup> party dependency builder kenek innw.eka manuallay download krl krnn oni na
 
-> <img src="media/media/image13.jpeg" style="width:5.69792in;height:2.89583in" />
+> ![image13](/media/image13.jpeg)
 >
 > JDK eke Java Fx eka ,java 8 version eka wenakan awith thiyenne.
 >
@@ -168,25 +170,24 @@ Collection frame work Class 5,
 >
 > Stage eke eka scene ekk run wela eka ain wela wena scene ekk run wenna puluwn.
 >
-> <img src="media/media/image14.jpeg" style="width:4.92708in;height:3.27986in" />
+> ![image14](/media/image14.jpeg)
 
 Apita scene ekk hadanna puluwn,
 
 fxml
 
-<img src="media/media/image15.tmp" style="width:2.06279in;height:0.7501in" />
+![image15](/media/image15.tmp)
 
 Controller
 
-<img src="media/media/image16.tmp" style="width:1.62523in;height:0.25003in" />
+![image16](/media/image16.tmp)
 
-<img src="media/media/image17.tmp" style="width:3.12544in;height:1.62523in" />
+![image17](/media/image17.tmp)
 
-Application<img src="media/media/image18.tmp" style="width:6.5in;height:0.98681in" />
+Application![image18](/media/image18.tmp)
 
 **Scene builder**
 
-Palet
 
 Text input -id
 

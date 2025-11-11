@@ -1,9 +1,10 @@
+---
+title: javaday8
+---
+
 OOP=Object oriented programming
-
 - Real world object ekk code ekkin represent karana eka thmai oop kiynne.
-
 - Common concept can use in every language.
-
 - C walain oop concept eka apply krnn bh
 
 Awt =oldest
@@ -14,23 +15,33 @@ Java FX
 
 Electrone.js = modern used.
 
+```java
 NEW = class eke copy ekk ganna ppuluwn.
+```
 
 To make copy,
 
+```java
 Data type of the class variable = new(copy) class name();
+```
 
+```java
 Eg.Student std 1 =new Student();
+```
 
+```java
 Main detail class ekata =java class
+```
 
 Copy ekt =java object
 
 Class ekk kiyanne object ekk blue print(original data sheet) ekk.
 
+```java
 Object is a insteance of a class(class ekaka instance ekk (copy) )
+```
 
-<img src="media/media/image1.tmp" style="width:4.04223in;height:4.33394in" />
+![image1](/media/image1.png)
 
 ORM=object relational model
 
@@ -44,19 +55,23 @@ Class scope eka athule hadana variable walata <span class="mark">instance variab
 
 Class ekk thiyanna puluwn dewl walata <span class="mark">attributes</span> kiyanne.Hadila thiyenne variables walin.
 
+```java
 Class ekk karanna puluwn dewl walata <span class="mark">Behaviours</span> kiyanne. Hadila thiyenne methods walin(class ekaka functionality ekk)
+```
 
 Instance variable walata default value thiynw
 
-- Onima class ekkin hadanna variable ekk default value eka Null
-
-<img src="media/media/image2.tmp" style="width:3.93805in;height:3.77136in" />
+![image2](/media/image2.png)
 
 **Static**
 
+```java
 Yama attribute ekk static nm class wka athule copies walata eh attribute eka yanne.
+```
 
+```java
 Original class file eke withara eka thiyenne.
+```
 
 Access krnn puluwn widi2 hv
 
@@ -64,17 +79,21 @@ Access krnn puluwn widi2 hv
 
 2.  Variable eke value gaththama.
 
+```java
 Static variable directly access karanna puluwn object ekedi .reason eka class ekt static variable eka aithi nisa.
+```
 
-<img src="media/media/image3.jpeg" style="width:5.23542in;height:6.34906in" />
+![image3](/media/image3.jpeg)
 
+```java
 Class eke naming call krl thiynw kiyanne eka static.static method aithi class ekt
+```
 
 Static method eka athula non static content ekk danna bh.
 
 Non static ekk athule static ekk call karanna puluwn.
 
-<img src="media/media/image4.jpeg" style="width:6.5in;height:3.96528in" />
+![image4](/media/image4.jpeg)
 
 Static method eka athule call krnne static variable ekk witharai.variable eka static wennama oni
 

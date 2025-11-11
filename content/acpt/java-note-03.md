@@ -1,5 +1,11 @@
+---
+title: java-note-03
+---
+
+```
 mint ans; //declare a variable
 ans = 45; //Initialization
+```
 var++ = increment operator
 var– = decreament operator
 

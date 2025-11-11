@@ -1,3 +1,7 @@
+---
+title: acpt-note-1
+---
+
 pl–syntax (instructions-source code) and compiler
 
 cd go to file
@@ -37,4 +41,3 @@ java Test
 
 intermidiate object file (bcz borh user and machine cant understand)
 byte code
-.class

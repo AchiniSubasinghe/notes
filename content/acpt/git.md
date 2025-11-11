@@ -1,3 +1,7 @@
+---
+title: git
+---
+
 git hub = microsoft company
 .gitignore= git and git hub dekm ekthu krm kiyne git eco system kiyala
 meke danne git eke danne nathi ewa

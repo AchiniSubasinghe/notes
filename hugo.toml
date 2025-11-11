@@ -1,0 +1,11 @@
+baseURL = 'https://notes.achini.me'
+languageCode = 'en-us'
+title = 'Programming Notes'
+theme = 'PaperMod'
+[markup]
+  [markup.goldmark]
+    dynamic = true
+    [markup.goldmark.extensions]
+      table = true
+      definitionList = true
+
