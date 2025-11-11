@@ -1,5 +1,5 @@
 ---
-title: Java-Assignment01
+title: Beginner Java Condition Exercises
 ---
 
 1.  Positive, Negative, or Zero Checker Prompt the user to input an integer and use if conditions to print whether the number is positive, negative, or zero.

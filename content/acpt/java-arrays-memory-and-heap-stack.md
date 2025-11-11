@@ -1,5 +1,5 @@
 ---
-title: java-note-05
+title: Java Arrays Memory And Heap Stack
 ---
 
 varaiable =thawakalika data ekk

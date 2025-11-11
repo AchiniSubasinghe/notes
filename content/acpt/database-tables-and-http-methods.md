@@ -1,5 +1,5 @@
 ---
-title: Tables
+title: Database Tables And Http Methods
 ---
 
 # Tables

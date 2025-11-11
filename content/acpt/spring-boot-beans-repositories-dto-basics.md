@@ -1,5 +1,5 @@
 ---
-title: springboot
+title: Spring Boot Beans Repositories Dto Basics
 ---
 
 java beans

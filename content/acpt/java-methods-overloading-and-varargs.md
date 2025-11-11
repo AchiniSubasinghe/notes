@@ -1,5 +1,5 @@
 ---
-title: java-note-06
+title: Java Methods Overloading And Varargs
 ---
 
 for each= same data type list ekk api len eka denna oni

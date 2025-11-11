@@ -1,5 +1,5 @@
 ---
-title: java-note-15
+title: Jdbc Crud Flow And Dto Patterns
 ---
 
 Scene ekk hadenna FXML file ekai Controller ekai dekama thiyenna oni.

@@ -1,5 +1,5 @@
 ---
-title: Java Geaney Day03
+title: Java Practice Day 03 Exercises
 ---
 
 # Java Geaney Day03

@@ -1,5 +1,5 @@
 ---
-title: Generic
+title: Java Generics Collections And Wrapper Classes
 ---
 
 **Wrapper class**

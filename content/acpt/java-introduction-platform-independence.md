@@ -1,5 +1,5 @@
 ---
-title: java-note01
+title: Java Introduction Platform Independence
 ---
 
 application -

@@ -1,5 +1,5 @@
 ---
-title: java-note-08
+title: Java Constructors And Encapsulation
 ---
 
 Constructor

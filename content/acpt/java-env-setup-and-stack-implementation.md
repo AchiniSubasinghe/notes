@@ -1,5 +1,5 @@
 ---
-title: java-day-20
+title: Java Env Setup And Stack Implementation
 ---
 
 Server ekt mysql damma.

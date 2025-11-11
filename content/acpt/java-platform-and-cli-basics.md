@@ -1,5 +1,5 @@
 ---
-title: acpt-note-1
+title: Java Platform And Cli Basics
 ---
 
 pl–syntax (instructions-source code) and compiler

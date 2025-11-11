@@ -1,5 +1,5 @@
 ---
-title: Day10-java
+title: Java Exception Handling And Gc Basics
 ---
 
 **Java Exception handling**

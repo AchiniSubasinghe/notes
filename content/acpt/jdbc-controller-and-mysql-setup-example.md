@@ -1,5 +1,5 @@
 ---
-title: java-note-14
+title: Jdbc Controller And Mysql Setup Example
 ---
 
 stand alone system = thani db

@@ -1,5 +1,5 @@
 ---
-title: java-note-13
+title: Database Servers Network Basics
 ---
 
 **In java fx when we want link another fxml file,**

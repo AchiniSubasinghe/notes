@@ -1,5 +1,5 @@
 ---
-title: Meka run krddi
+title: Nginx Reverse Proxy Deployment And Mysql Joins
 ---
 
 How to run the apache tom cat manually

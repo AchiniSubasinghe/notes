@@ -1,5 +1,5 @@
 ---
-title: stand-alone-system
+title: Singleton Standalone System Design
 ---
 
 stand alone system = thani db

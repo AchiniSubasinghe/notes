@@ -1,5 +1,5 @@
 ---
-title: day17
+title: Spring Boot Architecture And Di
 ---
 
 Front end to Back end eka data yanwanna official standard method eka JSON.

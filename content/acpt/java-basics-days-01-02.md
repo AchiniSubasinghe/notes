@@ -1,5 +1,5 @@
 ---
-title: Java Geaney Notes
+title: Java Basics Days 01 02
 ---
 
 # Java Geaney Notes

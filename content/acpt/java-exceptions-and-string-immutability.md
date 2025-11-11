@@ -1,5 +1,5 @@
 ---
-title: Types of Exception
+title: Java Exceptions And String Immutability
 ---
 
 ***Exception Handling***

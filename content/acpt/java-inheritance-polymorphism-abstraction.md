@@ -1,5 +1,5 @@
 ---
-title: java-note-10
+title: Java Inheritance Polymorphism Abstraction
 ---
 
 variable 3—–local instance static
